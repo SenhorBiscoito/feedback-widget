@@ -1,5 +1,8 @@
-const teste = 1;
+import express from "express";
 
-const asdadada = async () => {
-  return "ko";
-};
+const app = express();
+
+
+app.listen(3333, () => {
+  console.log("Server started on port 3333");
+});
