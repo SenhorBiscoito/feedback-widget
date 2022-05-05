@@ -14,4 +14,4 @@
 2. As classes da aplicação devem ser abertas para extensão mas fechadas para modificação;
 3. Nós devemos poder substituir uma classe pai por uma herança dela e tudo continuar funcionando;
 4. ...
-5.
+5. 
